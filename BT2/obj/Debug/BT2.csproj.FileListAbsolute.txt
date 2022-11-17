@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\bin\Debug\BT2.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\bin\Debug\BT2.exe
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\bin\Debug\BT2.pdb
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\obj\Debug\BT2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\obj\Debug\BT2.exe
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Demo_Day2\BT2\obj\Debug\BT2.pdb
